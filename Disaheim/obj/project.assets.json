@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\theha\\.nuget\\packages\\": {}
+    "C:\\Users\\Gæst\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\UCL\\repos\\Disaheim\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\dev\\UCL\\repos\\Disaheim\\Disaheim\\Disaheim.csproj",
-      "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\UCL\\repos\\Disaheim\\Disaheim\\obj\\",
+      "projectPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
+      "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gæst\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
