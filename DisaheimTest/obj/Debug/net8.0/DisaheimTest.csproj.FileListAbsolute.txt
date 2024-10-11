@@ -115,3 +115,4 @@ C:\dev\UCL\repos\Disaheim\DisaheimTest\obj\Debug\net8.0\refint\DisaheimTest.dll
 C:\dev\UCL\repos\Disaheim\DisaheimTest\obj\Debug\net8.0\DisaheimTest.pdb
 C:\dev\UCL\repos\Disaheim\DisaheimTest\obj\Debug\net8.0\DisaheimTest.genruntimeconfig.cache
 C:\dev\UCL\repos\Disaheim\DisaheimTest\obj\Debug\net8.0\ref\DisaheimTest.dll
+C:\dev\UCL\repos\Disaheim\DisaheimTest\obj\Debug\net8.0\DisaheimTest.sourcelink.json
