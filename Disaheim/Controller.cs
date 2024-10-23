@@ -8,14 +8,16 @@ namespace Disaheim
 {
     public class Controller
     {
-        public List<Amulet> Amulets;
         public List<Book> Books;
-        public List<Course> Course;
+
+        public List<Amulet> Amulets;
+
+        public List<Course> Courses;
         public Controller()
         {
-            Amulets = new List<Amulet>();
             Books = new List<Book>();
-            Course = new List<Course>();
+            Amulets = new List<Amulet>();
+            Courses = new List<Course>();
         }
 
         public void AddToList(Book book)
@@ -30,8 +32,7 @@ namespace Disaheim
 
         public void AddToList(Course course)
         {
-            Course.Add(course);
+            Courses.Add(course);
         }
-
     }
 }
