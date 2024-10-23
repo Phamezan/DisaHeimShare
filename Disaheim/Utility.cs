@@ -30,7 +30,6 @@ namespace Disaheim
         }
         public double GetValueOfCourse(Course course)
         {
-            //875 kr pr 0 - 60 min.
             int hours = course.DurationInMinutes / 60;
             return (course.DurationInMinutes % 60 > 0) ? (hours + 1) * 875 : hours * 875;
         }
