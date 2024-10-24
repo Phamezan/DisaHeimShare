@@ -9,7 +9,7 @@ namespace Disaheim
     public class Amulet : Merchandise
     {
         public string ItemId { get; set; }
-        public string Design {  get; set; }
+        public string Design { get; set; }
         public Level Quality { get; set; }
         
 

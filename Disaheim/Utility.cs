@@ -1,13 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Disaheim
+﻿namespace Disaheim
 {
     public class Utility
     {
+        public static double GetValueOfMerchandise(Merchandise merchandise)
+        {
+            double total = 0;
+            if (merchandise is Amulet amulet) {
+
+                if (amulet.Quality == Level.low)
+                {
+                    total += 12.5;
+                }
+                else if (amulet.Quality == Level.medium)
+                {
+                    total += 20.0;
+                }
+                else
+                {
+                    total += 27.5;
+                }
+            }
+            else if (merchandise is Book book)
+            {
+                total += book.Price;
+            }
+            return total;
+        } 
         public double GetValueOfBook (Book book)
         {
             return book.Price;
