@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {}
+    "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
+    "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
+        "projectUniqueName": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
+        "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
         "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\obj\\",
         "projectStyle": "PackageReference",

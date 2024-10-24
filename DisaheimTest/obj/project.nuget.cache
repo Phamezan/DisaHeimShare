@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1cS/3XlD68=",
+  "dgSpecHash": "z/5zUivrN2Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
+  "projectFilePath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gæst\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Gæst\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

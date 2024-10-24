@@ -1018,9 +1018,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
+      "projectUniqueName": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
       "projectName": "DisaheimTest",
-      "projectPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
+      "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
       "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\DisaheimTest\\obj\\",
       "projectStyle": "PackageReference",
@@ -1040,8 +1040,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
-              "projectPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj"
+            "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
+              "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj"
             }
           }
         }

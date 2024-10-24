@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\amuletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amuletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{408371B4-EF5E-436C-B515-0CDE273CFC04}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheimtest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{408371B4-EF5E-436C-B515-0CDE273CFC04}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\amuletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amuletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\g\u00E6st\\source\\repos\\disaheimprojekt\\disaheim\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AmuletRepository.cs",
               "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\AmuletRepository.cs",
               "RelativeDocumentMoniker": "Disaheim\\AmuletRepository.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\BookRepository.cs",
               "RelativeDocumentMoniker": "Disaheim\\BookRepository.cs",
@@ -152,16 +152,16 @@
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Disaheim\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\CourseRepository.cs",
-              "RelativeToolTip": "Disaheim\\CourseRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAsAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\CourseRepository.cs*",
+              "RelativeToolTip": "Disaheim\\CourseRepository.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T07:06:33.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\G\u00E6st\\source\\repos\\DisaheimProjekt\\Disaheim\\Controller.cs",
               "RelativeDocumentMoniker": "Disaheim\\Controller.cs",
