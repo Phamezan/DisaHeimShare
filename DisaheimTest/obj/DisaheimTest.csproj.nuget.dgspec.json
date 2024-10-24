@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj": {}
+    "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\DisaheimTest\\DisaheimTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj": {
+    "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\DisaheimTest\\DisaheimTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
+        "projectUniqueName": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\DisaheimTest\\DisaheimTest.csproj",
         "projectName": "DisaheimTest",
-        "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\DisaheimTest\\DisaheimTest.csproj",
-        "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\DisaheimTest\\obj\\",
+        "projectPath": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\DisaheimTest\\DisaheimTest.csproj",
+        "packagesPath": "C:\\Users\\Pham2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\DisaheimTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gæst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pham2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
-                "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj"
+              "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj": {
+                "projectPath": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj"
               }
             }
           }
@@ -83,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj": {
+    "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
+        "projectUniqueName": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "C:\\Users\\Gæst\\source\\repos\\DisaheimProjekt\\Disaheim\\Disaheim.csproj",
-        "packagesPath": "C:\\Users\\Gæst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gæst\\Source\\Repos\\DisaheimProjekt\\Disaheim\\obj\\",
+        "projectPath": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
+        "packagesPath": "C:\\Users\\Pham2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gæst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pham2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
