@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ik3pIIwzbP8=",
+  "dgSpecHash": "4rQI77pFKYg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\DisaheimTest\\DisaheimTest.csproj",
   "expectedPackageFiles": [
@@ -15,5 +15,12 @@
     "C:\\Users\\Pham2\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
     "C:\\Users\\Pham2\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\DisaheimTest\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
