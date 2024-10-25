@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
+      "projectPath": "C:\\Users\\Pham2\\Source\\Repos\\DisaHeimShare\\Disaheim\\Disaheim.csproj",
       "packagesPath": "C:\\Users\\Pham2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
@@ -70,13 +70,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -2,8 +2,24 @@
 {
     public class Utility
     {
+        public double LowQualityValue { get; set; }
+
+        public double MediumQualityVlaue { get; set; }
+
+        public double HighQualityValue { get; set; }
+
+        public double CourseHourValue { get; set; }
+
+        public Utility()
+        {
+            LowQualityValue = 12.5;
+            MediumQualityVlaue = 20.0;
+            HighQualityValue = 27.5;
+            CourseHourValue = 875.0;
+        }
         public static double GetValueOfMerchandise(Merchandise merchandise)
         {
+
             double total = 0;
             if (merchandise is Amulet amulet) {
 
