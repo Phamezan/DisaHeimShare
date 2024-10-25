@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -31,6 +32,13 @@ namespace Disaheim
         public override string ToString()
         {
             return $"ItemId: {ItemId}, Title: {Title}, Price: {Price.ToString(CultureInfo.CreateSpecificCulture("da-DA"))}";
+        }
+
+        public override double GetValue()
+        {
+            double total = 0;
+            total += Price;
+            return total;
         }
     }
 }

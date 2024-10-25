@@ -1,6 +1,6 @@
 ﻿namespace Disaheim
 {
-    public abstract class Merchandise
+    public abstract class Merchandise : IValuable
     {
         public string ItemId { get; set; }
 
@@ -8,5 +8,7 @@
         {
             return $"ItemId: {ItemId}";
         }
+
+        public abstract double GetValue(); 
     }
 }
