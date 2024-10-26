@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{408371B4-EF5E-436C-B515-0CDE273CFC04}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{408371B4-EF5E-436C-B515-0CDE273CFC04}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\ivaluable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\ivaluable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|c:\\users\\pham2\\source\\repos\\disaheimshare\\disaheim\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791C9DC-2250-479E-842C-03D3273585CF}|Disaheim\\Disaheim.csproj|solutionrelative:disaheim\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,10 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -65,81 +65,98 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amulet.cs",
+              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Amulet.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Amulet.cs",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Amulet.cs",
+              "RelativeToolTip": "Disaheim\\Amulet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:09:29.206Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Book.cs",
+              "RelativeDocumentMoniker": "Disaheim\\Book.cs",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Book.cs",
+              "RelativeToolTip": "Disaheim\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:09:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ValuableRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\ValuableRepository.cs",
               "RelativeDocumentMoniker": "Disaheim\\ValuableRepository.cs",
-              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\ValuableRepository.cs",
-              "RelativeToolTip": "Disaheim\\ValuableRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\ValuableRepository.cs*",
+              "RelativeToolTip": "Disaheim\\ValuableRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T19:34:36.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest5.cs",
               "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\DisaheimTest\\UnitTest5.cs",
               "RelativeDocumentMoniker": "DisaheimTest\\UnitTest5.cs",
               "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\DisaheimTest\\UnitTest5.cs",
               "RelativeToolTip": "DisaheimTest\\UnitTest5.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAMwIAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAIA2wN4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T20:58:45.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IValuable.cs",
               "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\IValuable.cs",
               "RelativeDocumentMoniker": "Disaheim\\IValuable.cs",
               "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\IValuable.cs",
               "RelativeToolTip": "Disaheim\\IValuable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T19:32:36.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Merchandise.cs",
               "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Merchandise.cs",
               "RelativeDocumentMoniker": "Disaheim\\Merchandise.cs",
               "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Merchandise.cs",
               "RelativeToolTip": "Disaheim\\Merchandise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T16:25:07.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Course.cs",
               "RelativeDocumentMoniker": "Disaheim\\Course.cs",
-              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Course.cs*",
-              "RelativeToolTip": "Disaheim\\Course.cs*",
+              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Course.cs",
+              "RelativeToolTip": "Disaheim\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T08:05:38.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Program.cs",
-              "RelativeDocumentMoniker": "Disaheim\\Program.cs",
-              "ToolTip": "C:\\Users\\Pham2\\source\\repos\\DisaHeimShare\\Disaheim\\Program.cs",
-              "RelativeToolTip": "Disaheim\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:48:34.623Z",
               "EditorCaption": ""
             }
           ]

@@ -17,7 +17,8 @@
         {
             foreach (IValuable valuable in valuables)
             {
-                if (valuable.ToString() == id)
+               
+                if (valuable is Merchandise merchandise && merchandise.ItemId == id)
                 {
                     return valuable;
                 } 
