@@ -1,6 +1,8 @@
-﻿namespace Disaheim
+﻿using System.Xml.Linq;
+
+namespace Disaheim
 {
-    public class ValuableRepository
+    public class ValuableRepository : IPersistable
     {
         private List<IValuable> valuables;
 
@@ -9,7 +11,7 @@
             valuables = new List<IValuable>();
         }
         public void AddValuable(IValuable valuable)
-        {
+        { 
             valuables.Add(valuable);
         }
 
@@ -37,6 +39,50 @@
         public int Count()
         {
             return valuables.Count;
+        }
+
+        public void Save()
+        {
+            using (StreamWriter wr = new StreamWriter("ValuableRepository.txt"))
+            {
+                foreach (IValuable valuable in valuables)
+                {
+                    wr.WriteLine(valuable);
+                }
+            }
+        }
+
+        public void Save(string fileName)
+        {
+            using (StreamWriter wr = new StreamWriter(fileName))
+            {
+                foreach (IValuable valuable in valuables)
+                {
+                    wr.WriteLine(valuable);
+                }
+            }
+        }
+
+        public void Load()
+        {
+            using (StreamReader sr = new StreamReader("ValuableRepository.txt"))
+            {
+                foreach (IValuable valuable in valuables)
+                {
+                    sr.ReadLine();
+                }
+            }
+        }
+
+        public void Load(string fileName)
+        {
+            using (StreamReader sr = new StreamReader(fileName))
+            {
+                foreach (IValuable valuable in valuables)
+                {
+                  sr.ReadLine();           
+                }
+            }
         }
     }
 }
