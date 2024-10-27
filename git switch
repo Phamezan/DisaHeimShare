@@ -1,0 +1,133 @@
+[33mcommit fc4a4de0dbd20748cda2ba52d37cdd37abbf3501[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Sun Oct 27 01:36:06 2024 +0200
+
+    PR19 Disaheim 5 øvelse 3.2: Added IPersistable and UnitTest6. UnitTest6 still fails
+
+[33mcommit 1bd80d956c5f720d729d5cc9f24ab1c3978ae188[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Sat Oct 26 16:36:08 2024 +0200
+
+    PR19 Disaheim5 øvelse 2.2: All UnitTest passes now.
+
+[33mcommit 3ae11e8320618f91397a7bb7d2778677ba35c991[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 23:50:47 2024 +0200
+
+    Disaheim 5 Øvelse 2.2. ValuableRepository fails the UnitTest5 needs to get fixed. Initial thought is that GetValuable is wrong is the only one that is wrong.
+
+[33mcommit d750e8756718facc4872cb433f4f42b8ac732aa3[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 21:28:56 2024 +0200
+
+    Pr 18 Priser som properties: Added low,medium,high QualityValuef and CourseHourValue.
+
+[33mcommit 4a87079d2bf43191dfa28779721919b0c3141362[m
+Merge: 0fc551b aa2674d
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 16:57:30 2024 +0200
+
+    Ændret i UnitTest4 så den ikke fejler
+
+[33mcommit 0fc551b267a04e26402930429eb1abf879f0c198[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 15:22:35 2024 +0200
+
+    123
+
+[33mcommit 3ed3d4113db911b937c8d32dd77570122c4b68e0[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 15:20:26 2024 +0200
+
+    merge conflict
+
+[33mcommit c412299485472f123b9f9f781e82a6630a7e5469[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 25 15:02:21 2024 +0200
+
+    merge conflict
+
+[33mcommit aa2674d8ad08dbd0eca8345c55187ff89a046d5c[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Thu Oct 24 19:39:09 2024 +0200
+
+    merge conflict
+
+[33mcommit 3f2447ecbdcfd77ba02fa67abb15ef562a46bc11[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Thu Oct 24 19:37:17 2024 +0200
+
+    merge conflicts
+
+[33mcommit 445d695f1f3404c7b0d96185ab3909d32ef592d8[m[33m ([m[1;31morigin/MerchandiseRepository[m[33m)[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Thu Oct 24 19:20:29 2024 +0200
+
+    Added MerchandiseRepository and changed UnitTest4 accordingly. 2 tests still fail: GetTotalValue and GetMerchandise.
+
+[33mcommit 4c0410b08989b526b513d493d0d899e0a943a6c3[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Thu Oct 24 08:37:46 2024 +0200
+
+    DisaHeimTest
+
+[33mcommit 2a46a8adbf2fc68679f2940fdca14c197f5bf357[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Wed Oct 23 11:13:22 2024 +0200
+
+    PR18_Disaheim4 til og med opgave 2.2
+
+[33mcommit c6b0f2dbacb4c16db75dc12453a9f1f62f8d3e67[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Wed Oct 23 08:58:31 2024 +0200
+
+    disaheim
+
+[33mcommit 2796fc18b735d9e4bc067658c73fc7816ee370a6[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 11 11:06:54 2024 +0200
+
+    Tilføjede GetValueOfCourse i utility og unittest
+
+[33mcommit fc4b33177907052572113d7ca04150aaa3c23a10[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 11 10:40:20 2024 +0200
+
+    Tilføjede Course og unittest til Course
+
+[33mcommit cc61ca1eb01f3542cd46e1d1b167a9b9a5c275ff[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 11 10:04:40 2024 +0200
+
+    Tilføjet abstrakt class Merchandise og test
+
+[33mcommit 9066cde944e4d635714f6f5220a59e604234ab2a[m
+Author: Phamezan <pham2003@outlook.dk>
+Date:   Fri Oct 11 09:35:27 2024 +0200
+
+    test
+
+[33mcommit b79469ebf285b17799617c4a86f1902245a7ad9b[m
+Author: Jonathan L. <70529549+Hairo03@users.noreply.github.com>
+Date:   Fri Oct 11 09:15:36 2024 +0200
+
+    Added Merchendise Class
+
+[33mcommit bd49ee10b3d85564e155f84eec1bb3366b914380[m
+Merge: d53c6a0 9e53f0a
+Author: Jonathan L. <70529549+Hairo03@users.noreply.github.com>
+Date:   Thu Oct 10 09:32:31 2024 +0200
+
+    Merge branch 'main' of github.com:Hairo03/Disaheim
+
+[33mcommit d53c6a0b0789f95bdadf164238382862983ab921[m
+Author: Jonathan L. <70529549+Hairo03@users.noreply.github.com>
+Date:   Thu Oct 10 09:22:52 2024 +0200
+
+    Initial commit
+
+[33mcommit 9e53f0a480e6ce5ed7caad9d8d1988ac6aab0d4b[m
+Author: Jonathan V. Lacor <70529549+Hairo03@users.noreply.github.com>
+Date:   Thu Oct 10 09:21:38 2024 +0200
+
+    Initial commit
